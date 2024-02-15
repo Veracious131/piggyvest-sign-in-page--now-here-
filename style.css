@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#062863;
+}
+.piglogo{
+    /* display: block; */
+    /* margin-left: 45%; */
+    text-align: center;
+    padding: 50px 0;
+    /* margin-top: 5%; */
+    /* margin-bottom: 3rem; */
+
+    
+}
+.form{
+    background-color:#ffffff ;
+    width: 390px;
+    /* height:390px; */
+    /* margin-left: 35%; */
+    margin: auto;
+    margin-bottom: 2rem;
+    padding: 35px;
+    /* padding-right: ; */
+    /* padding-top: 35px; */
+    padding-bottom: ;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.head{
+    color: #083e9e;
+    text-align: center;
+    text-shadow: #ffffff;
+    font-size: 1.45rem;
+    font-weight: 700;
+}
+.text{
+    color: #4a5568;
+    text-align: center;
+    /* text-shadow: #ffffff; */
+    font-weight: 700;
+    font-size: .875rem;
+    margin-bottom: 7%;
+    /* margin-top: -15px; */
+}
+label{
+    color: #4a5568;
+    font-size: .75rem;
+    word-spacing: 5px;
+    font-weight: 700;
+    /* font-family: U8; */
+}
+input{
+    display: block;
+    background-color: rgb(237,242,247);
+    width: 100%;
+    /* height: 45px; */
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+}
+.M{
+    margin-bottom: 40px;
+}
+button{
+    background-color: #0d60d8;
+    width: 100%;
+    /* height: 45px; */
+    padding: 15px;
+    border-radius: 5px;
+    border-bottom-left-radius: 0;
+    border: none;
+    margin-top: 25px;
+}
+a{
+    text-decoration: none;
+    /* display: flex; */
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    display: block;
+    margin-bottom: 2%;
+    text-align: center;
+    
+}
